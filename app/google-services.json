@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306888753140",
+    "firebase_url": "https://chatappwithfireb.firebaseio.com",
+    "project_id": "chatappwithfireb",
+    "storage_bucket": "chatappwithfireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306888753140:android:a69f61ce3fc97bb4",
+        "android_client_info": {
+          "package_name": "com.artificialsoft.chatappwithfireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306888753140-p5uf1p8u49c85vouuoajbpomg4ugf4nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artificialsoft.chatappwithfireb",
+            "certificate_hash": "8ad5ce4d4586b77f4332693a97a2772d13aa0f69"
+          }
+        },
+        {
+          "client_id": "306888753140-79pla5s66e5tlislo2itjmbcfmbjoi26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi72PxM8hl4WYZj6rvHAKLEwNaLCpBEh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306888753140-79pla5s66e5tlislo2itjmbcfmbjoi26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
