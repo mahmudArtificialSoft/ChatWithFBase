@@ -17,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.artificialsoft.chatappwithfireb.fragments.ChatsFragments;
+import com.artificialsoft.chatappwithfireb.fragments.ProfileFragment;
 import com.artificialsoft.chatappwithfireb.fragments.UsersFragment;
 import com.artificialsoft.chatappwithfireb.models.User;
 import com.bumptech.glide.Glide;
@@ -81,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
         viewPagerAdapter.addFragment(new ChatsFragments(), "Chats");
         viewPagerAdapter.addFragment(new UsersFragment(), "Users");
+        viewPagerAdapter.addFragment(new ProfileFragment(), "Profile");
 
         viewPager.setAdapter(viewPagerAdapter);
         tabLayout.setupWithViewPager(viewPager);
